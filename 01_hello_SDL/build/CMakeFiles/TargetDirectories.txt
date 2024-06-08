@@ -1,0 +1,3 @@
+/Users/pengchen/SDLTest/01_hello_SDL/build/CMakeFiles/main.dir
+/Users/pengchen/SDLTest/01_hello_SDL/build/CMakeFiles/edit_cache.dir
+/Users/pengchen/SDLTest/01_hello_SDL/build/CMakeFiles/rebuild_cache.dir
