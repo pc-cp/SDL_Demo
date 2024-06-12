@@ -1,7 +1,0 @@
-/Users/pengchen/SDLTest/04_key_presses/build/CMakeFiles/main.dir
-/Users/pengchen/SDLTest/04_key_presses/build/CMakeFiles/edit_cache.dir
-/Users/pengchen/SDLTest/04_key_presses/build/CMakeFiles/rebuild_cache.dir
-/Users/pengchen/SDLTest/04_key_presses/build/CMakeFiles/list_install_components.dir
-/Users/pengchen/SDLTest/04_key_presses/build/CMakeFiles/install.dir
-/Users/pengchen/SDLTest/04_key_presses/build/CMakeFiles/install/local.dir
-/Users/pengchen/SDLTest/04_key_presses/build/CMakeFiles/install/strip.dir

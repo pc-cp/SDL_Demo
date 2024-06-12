@@ -161,14 +161,13 @@ void event_loop() {
                 default:
                     break;
             }
-
-            // Apply the current image
-            // blit the loaded surface onto the screen surface
-            SDL_BlitSurface(gCurrentSurface, NULL, gScreenSurface, NULL);
-
-            // Update the surface
-            SDL_UpdateWindowSurface(gWindow);
         }
+        // Apply the current image
+        // blit the loaded surface onto the screen surface
+        SDL_BlitSurface(gCurrentSurface, NULL, gScreenSurface, NULL);
+
+        // Update the surface
+        SDL_UpdateWindowSurface(gWindow);
 
     }
 }
